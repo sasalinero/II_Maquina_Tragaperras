@@ -5,7 +5,7 @@ Está hecho con HTML, CSS, JavaScript.
 
 ¡¡ Espero que te divierta!!
 
-<p align="center"><img src="./images/123456.gif" height="100" width="100"></p>;
+<p align="center"><img src="./images/123456.gif"></p>;
 
 ## Funcionalidad de la Máquina:
 
